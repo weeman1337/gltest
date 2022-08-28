@@ -1,3 +1,3 @@
 # gltest
 
-Hallo Hallo
+Hallo
